@@ -42,7 +42,7 @@ Son yıllarda Amerika Birleşik Devletleri okullarda, işyerlerinde ve diğer ye
 ## Çalışmanın Amacı
 Toplu katliamlar, Mağdurlar ve aileleri için yıkıcı sonuçlar doğuran ABD'de ciddi bir kamu güvenliği sorunu haline geldi. Mevcut verileri analiz ederek, bu olayların özellikleri hakkında fikir edinebiliriz.
 
-Bu analizin asıl önemi, bunların oluşmasına katkıda bulunan faktörler hakkında içgörü kazanabilmemiz ve böylece politika yapıcıları toplu katliamlar neden olduğu zararı önleme ve hafifletme yolları hakkında bilgilendirebilmemizdir.
+Bu analizin asıl önemi, bunların oluşmasına katkıda bulunan faktörler hakkında içgörü kazanabilmemiz ve böylece politika yapıcıları toplu katliamlar neden olduğu zararı önleme ve hafifletme yolları hakkında bilgilendirebilmemizdir. Yıllara göre kazalardaki artışın boyutunu ve failin cinsiyeti, mağdur sayısı, önceki akıl hastalıklarının varlığı vb. gibi verilerde yer alan değişkenleri inceleyeceğimiz yer.
 
 Ayrıca, bu analiz farkındalığı artırmaya ve toplu katliamlar hakkında kamuoyunu uyarmaya da yardımcı olabilir. Bu olgunun bir analizini yaparak, politika yapıcıları, medyayı ve halkı bu durumu ele almak için harekete geçmeye teşvik edebiliriz.
 
