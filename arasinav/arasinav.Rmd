@@ -36,7 +36,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 
 
 # Giriş
-Son yıllarda Amerika Birleşik Devletleri okullarda, işyerlerinde ve diğer yerlerde meydana gelen birçok toplu katliam yaşadı. Bu trajik olaylar, toplu katliam konusunda kamuoyunda endişeye yol açtı. Amerika Birleşik Devletleri'ndeki toplu katliam konusunu daha iyi anlamak için, 1982'den 2015'e kadar bu tür olayların bir veri setini inceleyerek bir analiz yapacağız. Mother Jones'un soruşturmasından aldığımız veri seti, yer, tarih, ölüm ve yaralanma sayısı, kullanılan silah türü, ve her olayın diğer özellikleri içerir. Verileri analiz ederek , kalıpları ve eğilimleri ve ayrıca sorunu çözmeye yardımcı olan politikalar için çıkarımları keşfetmeyi amaçlıyoruz. Analiz ayrıca veri setinin sınırlamalarını ve böylesine karmaşık bir konuyu incelemenin zorluklarını da inceler.
+Son yıllarda Amerika Birleşik Devletleri okullarda, işyerlerinde ve diğer yerlerde meydana gelen birçok toplu katliam yaşadı. Bu trajik olaylar, toplu katliam konusunda kamuoyunda endişeye yol açtı. Amerika Birleşik Devletleri'ndeki toplu katliam konusunu daha iyi anlamak için, 1982'den 2015'e kadar bu tür olayların bir veri setini inceleyerek bir analiz yapacağız. Data.world web sitesinden Mother Jones'un soruşturmasından aldığımız veri seti, yer, tarih, ölüm ve yaralanma sayısı, kullanılan silah türü, ve her olayın diğer özellikleri içerir. Verileri analiz ederek , kalıpları ve eğilimleri ve ayrıca sorunu çözmeye yardımcı olan politikalar için çıkarımları keşfetmeyi amaçlıyoruz. Analiz ayrıca veri setinin sınırlamalarını ve böylesine karmaşık bir konuyu incelemenin zorluklarını da inceler.
 
 
 ## Çalışmanın Amacı
@@ -49,10 +49,13 @@ Ayrıca, bu analiz farkındalığı artırmaya ve toplu katliamlar hakkında kam
 
 
 ## Literatür 
+2012 Sandy Hook İlköğretim Okulu'ndaki silahlı saldırı gibi trajik olayların ulusal dikkatleri üzerine çekmesiyle, toplu katliamlar ABD'de acil bir sorun haline geldi. toplu katliamlar çoğunlukla akıl hastalığı veya psikolojik sıkıntı geçmişi olan genç, beyaz erkekler tarafından gerçekleştiriliyor.[@metzl2021mental]
 
+1966'dan 2012'ye kadar dünya çapındaki toplu katliamları belirlemeye yönelik bir çalışma, ABD'de kişi başına düşen toplu katliamlar, incelenen diğer tüm ülkelerden daha fazla olduğunu ortaya çıkardı [@lankford2016public]. Ayrıca, ABD'de son 20 yılda toplu silahlı saldırı olaylarının çoğu ticari veya eğitim amaçlı yerlerde meydana geldi ve erkek suçlular tarafından gerçekleştirildi [@schildkraut2018mass]. Bu, Beyaz üstünlük,toksik erkekliğin bunda oynadığı role ilişkin tartışmayı gündeme getirdi ve ayrıca okullarda ve aile ortamında zorbalık ve bunların bu konuda ne oynadığına dair tartışma yükseldi. Bazıları, Amerika'da silah bulma kolaylığının bu olayların ortaya çıkmasına katkıda bulunduğunu iddia ederken, diğerleri sorunun daha derin ve birden çok toplumsal boyutu olduğuna inanıyor.
 
+Bazı toplu katillerin, iyi bilinen önceki katillerden ilham aldığını belirtmekte fayda var. Sadece önceki katillerle ilgili değiller, onlardan ilham alıyorlar ve onları geçmek istiyorlar. Bu, medyanın bu olayları haber yapma biçimine yönelik eleştirilere yol açtı. Medyanın bu olayları kapsaması, bir "bulaşma etkisine" katkıda bulunabilir; bu durumda, halihazırda şiddet eylemleri işleme riski taşıyan bireyler, önceki faillere gösterilen ilgiyle daha fazla motive olabilir [@murray2017mass; @krouse2015mass].
 
-
+Genel olarak toplu katliamlar üzerine yapılan araştırmalar, bu trajik olaylara ve bunları önlemenin potansiyel yollarına ilişkin değerli içgörüler sağlamıştır. Bununla birlikte, toplu infazların en iyi nasıl tanımlanacağı ve ölçüleceği, bunların meydana gelmesine hangi faktörlerin katkıda bulunduğu ve bu tür olayların meydana gelmesini önlemek veya azaltmak için dikkate alınması gereken önleyici tedbirlerin neler olduğu konusunda hala çok fazla tartışma var.
 
 
 \newpage
