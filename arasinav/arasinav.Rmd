@@ -1,5 +1,5 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Amerika Birleşik Devletleri'ndeki toplu katliamların bir analizi: Modeller, eğilimler ve çıkarımlar."
 author: 
   - Abed alsalam Anka[^1]
 bibliography: ../bibliography/biblio.bib
@@ -34,30 +34,26 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 [^1]: 19080007, [Github Repo](https://github.com/abed-alsalam-anka/AraSinav)
 
-# Vize Hakkında Önemli Bilgiler
-
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**Run library(tidyverse)
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
+Son yıllarda Amerika Birleşik Devletleri okullarda, işyerlerinde ve diğer yerlerde meydana gelen birçok toplu katliam yaşadı. Bu trajik olaylar, toplu katliam konusunda kamuoyunda endişeye yol açtı. Amerika Birleşik Devletleri'ndeki toplu katliam konusunu daha iyi anlamak için, 1982'den 2015'e kadar bu tür olayların bir veri setini inceleyerek bir analiz yapacağız. Mother Jones'un soruşturmasından aldığımız veri seti, yer, tarih, ölüm ve yaralanma sayısı, kullanılan silah türü, ve her olayın diğer özellikleri içerir. Verileri analiz ederek , kalıpları ve eğilimleri ve ayrıca sorunu çözmeye yardımcı olan politikalar için çıkarımları keşfetmeyi amaçlıyoruz. Analiz ayrıca veri setinin sınırlamalarını ve böylesine karmaşık bir konuyu incelemenin zorluklarını da inceler.
 
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Toplu katliamlar, Mağdurlar ve aileleri için yıkıcı sonuçlar doğuran ABD'de ciddi bir kamu güvenliği sorunu haline geldi. Mevcut verileri analiz ederek, bu olayların özellikleri hakkında fikir edinebiliriz.
+
+Bu analizin asıl önemi, bunların oluşmasına katkıda bulunan faktörler hakkında içgörü kazanabilmemiz ve böylece politika yapıcıları toplu katliamlar neden olduğu zararı önleme ve hafifletme yolları hakkında bilgilendirebilmemizdir.
+
+Ayrıca, bu analiz farkındalığı artırmaya ve toplu katliamlar hakkında kamuoyunu uyarmaya da yardımcı olabilir. Bu olgunun bir analizini yaparak, politika yapıcıları, medyayı ve halkı bu durumu ele almak için harekete geçmeye teşvik edebiliriz.
+
+
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
 
 
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
+
+
+
 
 \newpage
 # Kaynakça {#references}
